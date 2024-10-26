@@ -1,0 +1,4 @@
+STEPS:
+1 : Create your on API id for IBM Watson NLU and Spotify
+2 : Download and save the intents file into your drive
+3 : The front end is created using Anvil Framework
